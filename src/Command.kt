@@ -1,4 +1,9 @@
-// общая команда рисования "чего-то" на "Canvas"
+//Показано как в Command можно отменять и сохранять файлы
+//Command позволяет инкапсулировать запрос на выполнение определенного действия
+//в виде отдельного объекта. Этот объект запроса на действие и называется командой.
+
+
+// общая команда на "Canvas"
 abstract class DrawCommand(private val canvas: Canvas) {
     //состояние перед выполнением команды - список уже нарисованных элементов
     private var preCommandState = listOf<Shape>()
@@ -15,7 +20,7 @@ abstract class DrawCommand(private val canvas: Canvas) {
         canvas.shapes = preCommandState.toMutableList()
     }
 }
-// интерфейсы рисоваемых фигур
+// интерфейсы рисуемых фигур
 interface Shape
 data class Line(val length: Int) : Shape
 data class Circle(val diameter: Int) : Shape
