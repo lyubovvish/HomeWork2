@@ -1,0 +1,57 @@
+<resources>
+    <string name="app_name">HomeWork4</string>
+    <string name="tittle">Личности</string>
+
+    <string name="hamurappi">Хаммурапи</string>
+    <string name="hamurappi_years">1792–1750 гг. до н. э.</string>
+    <string name="hamurappi_bio">Правление шестого царя I Вавилонской династии Хаммурапи, который объединил под властью Вавилона всю Месопотамию, осуществил крупномасштабные программы гражданских реформ и строительства и учредил первый систематический юридический кодекс</string>
+    <string name="hamurappi_sex">Мужской</string>
+
+    <string name="budda">Будда Шакьямуни</string>
+    <string name="budda_years">480–400 гг. до н. э.</string>
+    <string name="budda_bio">Основал одну из крупнейших мировых религий.</string>
+    <string name="budda_sex">Мужской</string>
+
+    <string name="gannidal">Ганнибал Барка</string>
+    <string name="gannidal_years">241–183 гг. до н. э.</string>
+    <string name="gannidal_bio">Был карфагенским полководцем во время Второй Пунической войны, которая бушевала между Карфагеном и Римом в Северной Африке с 218 по 202 год до нашей эры</string>
+    <string name="gannidal_sex">Мужской</string>
+
+    <string name="cezar">Цезарь</string>
+    <string name="cezar_years">100–44 гг. до н.э</string>
+    <string name="cezar_bio">Древнеримский государственный и политический деятель, полководец, писатель. Консул 59, 48, 46, 45 и 44 годов до н. э., диктатор 49, 48—47 и 46—44 годов до н. э., великий понтифик с 63 года до н. э.</string>
+    <string name="cezar_sex">Мужской</string>
+
+    <string name="augast">Октавиан Август</string>
+    <string name="augast_years">27–14 гг. до н.э.</string>
+    <string name="augast_bio">Создатель Римской империи и, соответственно, первый император. Был самым юным из претендентов на престол, но ум, изворотливость и стремление к единоличной власти сделали свое дело</string>
+    <string name="augast_sex">Мужской</string>
+
+    <string name="carl">Карл Великий</string>
+    <string name="carl_years">768–814 гг</string>
+    <string name="carl_bio">Его завоевания привели к образованию обширной империи. Политика Карла Великого (покровительство церкви, судейские и военные реформы и др.)
+        содействовала формированию феодальных отношений в Зап</string>
+    <string name="carl_sex">Мужской</string>
+
+    <string name="ganna">Жанна Дарк</string>
+    <string name="ganna_years">1412–1431 гг</string>
+    <string name="ganna_bio">Национальная героиня Франции, одна из командующих французскими войсками в Столетней войне. Попав в плен к бургундцам,
+        была передана англичанам, осуждена как еретик и сожжена на костре. Впоследствии в 1456 году была реабилитирована и в 1920 году канонизирована - причислена католической церковью к лику святых</string>
+    <string name="ganna_sex">Женский</string>
+
+    <string name="martin">Мартин Лютер</string>
+    <string name="martin_years">1517–1546 гг</string>
+    <string name="martin_bio">Немецкий христианский богослов, инициатор Реформации, ведущий переводчик Библии на немецкий язык. Его именем названо одно из направлений протестантизма - лютеранство.
+        Один из создателей немецкого литературного языка</string>
+    <string name="martin_sex">Мужской</string>
+
+    <string name="petr">Пётр I</string>
+    <string name="petr_years">1682–1725 гг</string>
+    <string name="petr_bio">Последний царь всея Руси и первый Император Всероссийский</string>
+    <string name="petr_sex">Мужской</string>
+
+    <string name="chaka">Чака</string>
+    <string name="chaka_years">1816–1828 гг</string>
+    <string name="chaka_bio">Основатель и первый правитель державы зулу - КваЗулу. Чака родился в период активной европейской колонизации Африки</string>
+    <string name="chaka_sex">Мужской</string>
+</resources>
