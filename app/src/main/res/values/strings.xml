@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">HomeWork3</string>
+    <string name="fr1">1</string>
+    <string name="fr2">2</string>
+    <string name="fr3">3</string>
+    <string name="fr4">4</string>
+    <string name="next">Вперед</string>
+    <string name="back">Назад</string>
+    <string name="num1">Введите первое число</string>
+    <string name="num2">Введите второе число</string>
+    <string name="mathOperation">Выберете математический знак</string>
+    <string name="result">Result</string>
+    <string name="pls">+</string>
+    <string name="mns">-</string>
+    <string name="dlt">/</string>
+    <string name="multi">*</string>
+</resources>
